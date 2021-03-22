@@ -1,1 +1,1 @@
-Show picture with character demo
+Show picture with character
